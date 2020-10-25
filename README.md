@@ -41,4 +41,4 @@ npm run start
 ## App is running on localhost:4200
 
 ## Further help
-Email me <u>ksankumar@gmail.com</u>
+Email me <u>udayaditya.singh@gmail.com</u>
